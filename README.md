@@ -1,1 +1,4 @@
-# Yararli-Paylasimlar
+# Merhaba!
+
+Yararlı Paylaşımlar kategorisine hoş geldin. Discord sunucumuzda paylaşılan her yazılar buradada paylaşılacaktır.
+[Yararlı paylaşımlara ulaşmak için tıkla!](ww)
